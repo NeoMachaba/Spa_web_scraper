@@ -1,0 +1,255 @@
+[
+    {
+        "about": [
+            {
+                "name": "MELLOW SPA MIDRAND",
+                "paragraphs": [
+                    "We meet your personal enthusiasm with our professional beauty therapists serving you from our location in Midrand. We also do mobile where by our personal fitness trainers will meet your fitness goals at your nearest gym or a place of your choice.\nMellow Spa is a forefront of modern massage and skin care health. After each visit we want you to feel relaxed, rejuvenated and at your most beautiful.\nEach one of our beauty therapists and fitness personal trainers are highly skilled and truly care about delivering an unparalleled spa & gym experience.\nWe also host special events at extra costs \u2013 Baby shower, Bridal Shower, Birthday parties and picnics.",
+                    "Email"
+                ],
+                "vision": "MELLOW SPA MIDRAND",
+                "vision-paragraph": "Lets live a happier life!"
+            }
+        ],
+        "services": [
+            {
+                "category": "MASSAGE THERAPY",
+                "services": [
+                    {
+                        "service": "Swedish massage",
+                        "price": "R650"
+                    },
+                    {
+                        "service": "Aromatherapy",
+                        "price": "R700"
+                    },
+                    {
+                        "service": "Sports / Deep tissue Massage",
+                        "price": "R700"
+                    },
+                    {
+                        "service": "Hot stones massage",
+                        "price": "R700"
+                    },
+                    {
+                        "service": "Back-neck-shoulder massage",
+                        "price": "R600"
+                    },
+                    {
+                        "service": "Hot oil massage",
+                        "price": "R700"
+                    },
+                    {
+                        "service": "Foot scrub and Reflexology",
+                        "price": "R600"
+                    },
+                    {
+                        "service": "Full body exfoliation & Body scrub",
+                        "price": "R800"
+                    },
+                    {
+                        "service": "Prenatal Massage",
+                        "price": "R800"
+                    },
+                    {
+                        "service": "Kiddies Massage \u2013 full body massage & foot scrub",
+                        "price": "R499"
+                    }
+                ]
+            },
+            {
+                "category": "MANICURE & PEDICURE",
+                "services": [
+                    {
+                        "service": "Manicure",
+                        "price": "R250"
+                    },
+                    {
+                        "service": "Pedicure",
+                        "price": "R280"
+                    },
+                    {
+                        "service": "Gel manicure",
+                        "price": "R300"
+                    },
+                    {
+                        "service": "Gel pedicure",
+                        "price": "R330"
+                    },
+                    {
+                        "service": "Acrylics tips",
+                        "price": "R550"
+                    },
+                    {
+                        "service": "Gelish tips",
+                        "price": "R450"
+                    },
+                    {
+                        "service": "Gelish overlays",
+                        "price": "R400"
+                    },
+                    {
+                        "service": "Soak off",
+                        "price": "R150"
+                    },
+                    {
+                        "service": "Kiddies Natural Pedicure",
+                        "price": "R100"
+                    },
+                    {
+                        "service": "Kiddies Mini Manicure",
+                        "price": "R100"
+                    }
+                ]
+            },
+            {
+                "category": "MOBILE LIST",
+                "services": [
+                    {
+                        "service": "Relaxation Massage",
+                        "price": "R850"
+                    },
+                    {
+                        "service": "Full Body Stones Massage",
+                        "price": "R1000"
+                    },
+                    {
+                        "service": "Couples Relaxation Massage",
+                        "price": "R1400"
+                    },
+                    {
+                        "service": "Full Body Aromatherapy Massage",
+                        "price": "R950"
+                    },
+                    {
+                        "service": "Foot scrub and massage",
+                        "price": "R650"
+                    },
+                    {
+                        "service": "Indian head, neck massage",
+                        "price": "R600"
+                    },
+                    {
+                        "service": "Back massage hot stones",
+                        "price": "R750"
+                    },
+                    {
+                        "service": "Facial Mud",
+                        "price": "R450"
+                    },
+                    {
+                        "service": "Charcoal",
+                        "price": "R550"
+                    },
+                    {
+                        "service": "Manicure",
+                        "price": "R250"
+                    },
+                    {
+                        "service": "Pedicure",
+                        "price": "R280"
+                    },
+                    {
+                        "service": "Natural Make Up",
+                        "price": "R600"
+                    },
+                    {
+                        "service": "Contouring and Classic Make Up",
+                        "price": "R800"
+                    }
+                ]
+            },
+            {
+                "category": "WAXING",
+                "services": [
+                    {
+                        "service": "Full Bikini (35 min)",
+                        "price": "R350"
+                    },
+                    {
+                        "service": "Bikini Sides (20 min)",
+                        "price": "R250"
+                    },
+                    {
+                        "service": "Full Arms (30 min)",
+                        "price": "R350"
+                    },
+                    {
+                        "service": "Brazilian (30 min)",
+                        "price": "R400"
+                    },
+                    {
+                        "service": "Hollywood (50 min)",
+                        "price": "R400"
+                    },
+                    {
+                        "service": "Lip Wax (15 min)",
+                        "price": "R100"
+                    },
+                    {
+                        "service": "Chin Wax (15 min)",
+                        "price": "R100"
+                    },
+                    {
+                        "service": "Brow Wax (15 min)",
+                        "price": "R100"
+                    },
+                    {
+                        "service": "Chest (15 min)",
+                        "price": "R150"
+                    },
+                    {
+                        "service": "Back (20 min)",
+                        "price": "R150"
+                    },
+                    {
+                        "service": "Full leg (30 min)",
+                        "price": "R180"
+                    },
+                    {
+                        "service": "Half leg (20 min)",
+                        "price": "R100"
+                    },
+                    {
+                        "service": "1/4 leg (15 min)",
+                        "price": "R100"
+                    },
+                    {
+                        "service": "Under Arm (20 min)",
+                        "price": "R150"
+                    }
+                ]
+            },
+            {
+                "category": "FACIAL CLEANSING",
+                "services": [
+                    {
+                        "service": "Facial mud mask",
+                        "price": "R350"
+                    },
+                    {
+                        "service": "Facial charcoal mask",
+                        "price": "R450"
+                    },
+                    {
+                        "service": "Facial deep exfoliation",
+                        "price": "R600"
+                    }
+                ]
+            },
+            {
+                "category": "MAKE UP",
+                "services": [
+                    {
+                        "service": "Daily",
+                        "price": "R450"
+                    },
+                    {
+                        "service": "Bridal or Traditional",
+                        "price": "R600"
+                    }
+                ]
+            }
+        ]
+    }
+]
